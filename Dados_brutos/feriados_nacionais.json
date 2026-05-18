@@ -1,0 +1,524 @@
+[
+    {
+        "date": "2020-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2020-02-25",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2020-04-10",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2020-04-12",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2020-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2020-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2020-06-11",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2020-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2020-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2020-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2020-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2020-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2021-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2021-02-16",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2021-04-02",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2021-04-04",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2021-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2021-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2021-06-03",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2021-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2021-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2021-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2021-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2021-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2022-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2022-03-01",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2022-04-15",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2022-04-17",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2022-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2022-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2022-06-16",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2022-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2022-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2022-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2022-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2022-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2023-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2023-02-21",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2023-04-07",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2023-04-09",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2023-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2023-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2023-06-08",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2023-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2023-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2023-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2023-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2023-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2024-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2024-02-13",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2024-03-29",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2024-03-31",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2024-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2024-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2024-05-30",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2024-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2024-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2024-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2024-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2024-11-20",
+        "name": "Dia da consciência negra",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2024-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2025-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "quarta-feira"
+    },
+    {
+        "date": "2025-03-04",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2025-04-18",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2025-04-20",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2025-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2025-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2025-06-19",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2025-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2025-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2025-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2025-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "sábado"
+    },
+    {
+        "date": "2025-11-20",
+        "name": "Dia da consciência negra",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2025-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2026-01-01",
+        "name": "Confraternização mundial",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2026-02-17",
+        "name": "Carnaval",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2026-04-03",
+        "name": "Sexta-feira Santa",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2026-04-05",
+        "name": "Páscoa",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2026-04-21",
+        "name": "Tiradentes",
+        "type": "national",
+        "weekday": "terça-feira"
+    },
+    {
+        "date": "2026-05-01",
+        "name": "Dia do trabalho",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2026-06-04",
+        "name": "Corpus Christi",
+        "type": "national",
+        "weekday": "quinta-feira"
+    },
+    {
+        "date": "2026-09-07",
+        "name": "Independência do Brasil",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2026-10-12",
+        "name": "Nossa Senhora Aparecida",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2026-11-02",
+        "name": "Finados",
+        "type": "national",
+        "weekday": "segunda-feira"
+    },
+    {
+        "date": "2026-11-15",
+        "name": "Proclamação da República",
+        "type": "national",
+        "weekday": "domingo"
+    },
+    {
+        "date": "2026-11-20",
+        "name": "Dia da consciência negra",
+        "type": "national",
+        "weekday": "sexta-feira"
+    },
+    {
+        "date": "2026-12-25",
+        "name": "Natal",
+        "type": "national",
+        "weekday": "sexta-feira"
+    }
+]
